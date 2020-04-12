@@ -6,5 +6,5 @@ python: 3.8.2
 
 
 # Run the unit test
-script:
-  - ./score.py 
+#script:
+#  - ./score.py 
