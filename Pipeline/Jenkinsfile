@@ -25,8 +25,8 @@ node {
             git pull origin master --tags
             echo "Python-scripts Clone done"
             @echo off
-            for /f "skip=5 delims=" %%a in ('dir /b /o-d /ad') do rd /s /q "%%a"
-            pause
+            #for /f "skip=5 delims=" %%a in ('dir /b /o-d /ad') do rd /s /q "%%a"
+            #pause
             cd ..
         """
     }
