@@ -4,7 +4,6 @@ language: python
 # Set the python version to 2.7
 python: 3.8.2
 
-
 #Run
 script:
-    - cd hackerrank && python Hello_World.py
+    - cd Hacker_Rank && python Hello_World.py
