@@ -11,7 +11,7 @@ def main():
     TotalPudukkottai=data_covid['Tamil Nadu'] ['districtData'] ['Pudukkottai'] ['confirmed']
     Chennai=data_covid['Tamil Nadu'] ['districtData'] ['Chennai'] ['active']
     TotalChennai=data_covid['Tamil Nadu'] ['districtData'] ['Chennai'] ['confirmed']
-    Current_Active=("Chennai Total Case: {} \nChennai Total Case: {}".format(TotalChennai,Chennai))
+    Current_Active=("Chennai Total Case: {} \nChennai Active Case: {}".format(TotalChennai,Chennai))
     Total_Confirmed=("Pudukkottai Total Case: {} \nPudukkottai Active Case: {}".format(TotalPudukkottai,Pudukkottai))
     toaster.show_toast(title="Corona Live Status",msg=("{} \n{}".format(Current_Active,Total_Confirmed)), duration=15,threaded=False)
 
