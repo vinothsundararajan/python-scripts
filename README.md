@@ -30,6 +30,8 @@ maintenance - added to check how travis ci works
 maintenance - created Tkinter app for conver base64 codes from encode and decode.
 - googlesearch.py
 maintenance - created script to search online.
+- coronatracker.py
+maintenance - access the api.covid19india.org and fetch the data for chennai and pudukkottai.
 
 
 ### Docker images handle
