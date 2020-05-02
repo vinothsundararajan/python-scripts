@@ -6,4 +6,4 @@ python: 3.8.2
 
 #Run
 script:
-    - cd Hacker_Rank && python Hello_World.py
+    - cd Covid19_Tracker && python jsontotxt.py
