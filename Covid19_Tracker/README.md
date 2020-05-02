@@ -5,7 +5,8 @@ maintenance - access the api.covid19india.org and fetch the data for chennai and
 
 - jsontotxt.py
 maintenance - execute the script to get the data state and district wise. / for other state you need to update the python script file.
-    #sample output:
+    
+	-sample output:
     
         Ariyalur         district details       Active:3        Confirmed:7     Recovered:4     Decreased:0
         Chennai          district details       Active:848      Confirmed:1086  Recovered:222   Decreased:16

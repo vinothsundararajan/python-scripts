@@ -32,7 +32,9 @@ maintenance - created Tkinter app for conver base64 codes from encode and decode
 maintenance - created script to search online.
 - coronatracker.py
 maintenance - access the api.covid19india.org and fetch the data for chennai and pudukkottai.
-
+- jsontotxt.py
+maintenance - execute the script to get the data state and district wise. / for other state you need to update the python script file.
+    
 
 ### Docker images handle
 - docker search newimages
