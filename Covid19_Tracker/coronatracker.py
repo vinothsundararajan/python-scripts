@@ -16,4 +16,4 @@ def main():
     toaster.show_toast(title="Corona Live Status",msg=("{} \n{}".format(Current_Active,Total_Confirmed)), duration=15,threaded=False)
 
 if __name__ == "__main__":
-    main()     
+    main()
