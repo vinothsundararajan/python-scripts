@@ -3,7 +3,7 @@ import urllib.request as request
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
-from PIL import ImageTk, Image
+#from PIL import ImageTk, Image
 
 HEIGHT = 1250
 WIDTH = 1330
